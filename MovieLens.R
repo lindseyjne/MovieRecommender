@@ -1,3 +1,4 @@
+####DRAFT 1####
 #Building a recommendation system
 
 setwd("d:/Movie Data/ml-100k")
